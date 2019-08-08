@@ -1,0 +1,7 @@
+{
+  "name": "PickMeUp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
